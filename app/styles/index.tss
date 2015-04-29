@@ -1,0 +1,9 @@
+
+".gameContainer" : {
+	backgroundColor:'white',
+	orientationModes: [Ti.UI.PORTRAIT, Ti.UI.UPSIDE_PORTRAIT],
+	fullscreen:true,
+	navBarHidden : true,
+	keepScreenOn:true
+},
+
