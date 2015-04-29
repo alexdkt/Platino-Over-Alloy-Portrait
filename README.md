@@ -1,11 +1,13 @@
 Non-official Platino template
+=======================================
 
-Non-official template to make games (in portrait mode) using Platino Engine over an Alloy empty project. 
+Non-official template to make games (in Portrait mode) using Platino Engine over an Alloy empty project. 
 
 Facilitates the game integration in Alloy projects, permitting the use of underscore, backbone , alloy.js, config.js and constants like OS_IOS in your game code. 
 
+-------------------------
 Alloy + Platino directory
-
+-------------------------
 
 Here's how your Alloy directory is laid out.
 
